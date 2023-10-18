@@ -6,7 +6,7 @@
 - Cursando Análise e Desenvolvimento de Sistemas
 - Apaixonado por Front-end
 
-Estou no início dos meus estudos e estou constantemente buscando aprimorar minhas experiências. Sempre planto as melhores sementes, ansioso pela colheita mais frutífera.
+Estou no início dos meus estudos e estou constantemente buscando aprimorar minhas experiências. Sempre jogando as melhores sementes, em busca dos melhores resultados.
 
 
 ## Minhas plataformas de redes sociais:

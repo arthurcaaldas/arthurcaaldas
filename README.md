@@ -21,5 +21,3 @@ Estou no início dos meus estudos e estou constantemente buscando aprimorar minh
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Snake animation](https://github.com/arthurcaaldas/arthurcaaldas/blob/output/github-contribution-grid-snake.svg)

@@ -14,6 +14,19 @@ Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado p
 - Versionamento: Git
 - Plataforma: GitHub
 
+![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Angular](https://img.shields.io/badge/agular-000?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
+![Sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+![NodeJS](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=nodejs)
+
+
+
 Além disso, estou sempre buscando aprender e me aprimorar em novas tecnologias para me manter atualizado com as tendências do mercado e oferecer soluções cada vez melhores.
 
 Se você está procurando um desenvolvedor comprometido, apaixonado e determinado a fazer a diferença, estou pronto para enfrentar novos desafios e contribuir para projetos incríveis!

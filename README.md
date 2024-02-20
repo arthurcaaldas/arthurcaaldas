@@ -1,15 +1,14 @@
 # Arthur Caldas de Carvalho Gomes
 
-# Sobre mim
+## Sobre mim
 
-- 29 anos
-- Cursando Análise e Desenvolvimento de Sistemas
-- Apaixonado por Front-end
+Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado por criar experiências incríveis para os usuários. Com 29 anos e atualmente cursando Análise e Desenvolvimento de Sistemas, estou mergulhado no mundo da programação e sempre buscando maneiras de expandir meu conhecimento e habilidades.
 
-Estou no início dos meus estudos e estou constantemente buscando aprimorar minhas experiências. Sempre jogando as melhores sementes, em busca dos melhores resultados.
-
+🚀 Busco constantemente novos desafios e oportunidades de aprendizado, pois acredito que é através do desafio que crescemos e nos tornamos melhores profissionais. Compromisso, determinação e curiosidade são os pilares que guiam minha jornada no desenvolvimento de software.
 
 ## Minhas plataformas de redes sociais:
+
+Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/arthur-caldas-217b34289/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/arthurcaaldas/)
@@ -18,6 +17,14 @@ Estou no início dos meus estudos e estou constantemente buscando aprimorar minh
 
 ## Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Front-end: HTML5, CSS3, JavaScript
+- Pré-processadores: Sass
+- Frameworks: Angular
+- Versionamento: Git
+- Plataforma: GitHub
+
+Além disso, estou sempre buscando aprender e me aprimorar em novas tecnologias para me manter atualizado com as tendências do mercado e oferecer soluções cada vez melhores.
+
+Se você está procurando um desenvolvedor comprometido, apaixonado e determinado a fazer a diferença, estou pronto para enfrentar novos desafios e contribuir para projetos incríveis!
+
+Vamos conectar e criar algo incrível juntos! 💻✨

@@ -68,7 +68,7 @@ Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado p
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurcaaldas&show_icons=true&locale=en&layout=compact" alt="arthurcaaldas"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurcaaldas&show_icons=true&locale=en&layout=compact" alt="arthurcaaldas" height="100px"/>
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurcaaldas&show_icons=true&locale=en" alt="arthurcaaldas"/>

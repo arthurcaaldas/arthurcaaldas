@@ -1,6 +1,6 @@
 <h1>Arthur Caldas</h1>
 
-<h3 align="center">Sobre mim</h3>
+<h3 align="">Sobre mim</h3>
 
 <p align="">
 Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado por criar experiências incríveis para os usuários. Com 29 anos e atualmente cursando Análise e Desenvolvimento de Sistemas, estou mergulhado no mundo da programação e sempre buscando maneiras de expandir meu conhecimento e habilidades.
@@ -70,15 +70,12 @@ Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado p
 </div>
 
 <div align="center">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurcaaldas&show_icons=true&locale=en&layout=compact" alt="arthurcaaldas" height="100px"/>
-  </p>
-  <p>
-    <img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=arthurcaaldas&show_icons=true&locale=en" alt="arthurcaaldas" height="100px"/>
-  </p>
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurcaaldas&show_icons=true&locale=en&layout=compact" alt="arthurcaaldas" height="120px"/>
+    <img align="" src="https://github-readme-stats.vercel.app/api?username=arthurcaaldas&show_icons=true&locale=en" alt="arthurcaaldas" height="120px"/>
 </div>
+<br><br>
 
-<p>
+<p align="center">
 Além disso, estou sempre buscando aprender e me aprimorar em novas tecnologias para me manter atualizado com as tendências do mercado e oferecer soluções cada vez melhores.
 Se você está procurando um desenvolvedor comprometido, apaixonado e determinado a fazer a diferença, estou pronto para enfrentar novos desafios e contribuir para projetos incríveis!
 Vamos conectar e criar algo incrível juntos! 💻✨

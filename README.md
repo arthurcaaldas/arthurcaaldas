@@ -76,7 +76,6 @@ Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado p
   <p>
     <img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=arthurcaaldas&show_icons=true&locale=en" alt="arthurcaaldas" height="100px"/>
   </p>
-
 </div>
 
 <p>
@@ -90,16 +89,16 @@ Vamos conectar e criar algo incrível juntos! 💻✨
 
 <h4 align="center">Conecte-se comigo:</h4>
 <p align="center">
-<a href="" target="blank">
+<a href="https://www.linkedin.com/in/arthur-caldas-217b34289/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthurcaaldas" height="30" width="40"/>
 </a>
-<a href="https://fb.com/arthurcaaldas" target="blank">
+<a href="https://www.facebook.com/arthurcaldas/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arthurcaaldas" height="30" width="40"/>
 </a>
-<a href="https://instagram.com/arthurcaaldas" target="blank">
+<a href="https://www.instagram.com/arthurcaaldas/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurcaaldas" height="30" width="40"/>
 </a>
-<a href="https://discord.gg/arthurcaaldas" target="blank">
+<a href="https://www.discord.com/in/arthurcaaldas#8368/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arthurcaaldas" height="30" width="40"/>
 </a>
 </p>

@@ -14,6 +14,7 @@ Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado p
 - Frameworks: Angular
 - Versionamento: Git
 - Plataforma: GitHub
+
 <!--
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
@@ -73,7 +74,9 @@ Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado p
     <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurcaaldas&show_icons=true&locale=en&layout=compact" alt="arthurcaaldas" height="120px"/>
     <img align="" src="https://github-readme-stats.vercel.app/api?username=arthurcaaldas&show_icons=true&locale=en" alt="arthurcaaldas" height="120px"/>
 </div>
-<br><br>
+
+<br>
+<br>
 
 <p align="center">
 Além disso, estou sempre buscando aprender e me aprimorar em novas tecnologias para me manter atualizado com as tendências do mercado e oferecer soluções cada vez melhores.

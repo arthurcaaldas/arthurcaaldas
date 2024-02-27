@@ -86,7 +86,6 @@ Vamos conectar e criar algo incrível juntos! 💻✨
 
 <h3 align="center">Minhas plataformas de redes sociais</h3>
 
-
 <h4 align="center">Conecte-se comigo:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/arthur-caldas-217b34289/" target="blank">
@@ -108,3 +107,4 @@ Vamos conectar e criar algo incrível juntos! 💻✨
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/arthurcaaldas/)
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/arthurcaldas/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/arthurcaaldas#8368/)
+-->

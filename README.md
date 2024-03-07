@@ -81,7 +81,9 @@ Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado p
 <p align="center">
 Além disso, estou sempre buscando aprender e me aprimorar em novas tecnologias para me manter atualizado com as tendências do mercado e oferecer soluções cada vez melhores.
 Se você está procurando um desenvolvedor comprometido, apaixonado e determinado a fazer a diferença, estou pronto para enfrentar novos desafios e contribuir para projetos incríveis!
-  
+</p>
+
+<p align="center">
 Vamos conectar e criar algo incrível juntos! 💻✨
 </p>
 

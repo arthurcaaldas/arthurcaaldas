@@ -3,7 +3,7 @@
 <h3 align="">Sobre mim</h3>
 
 <p align="">
-Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado por criar experiências incríveis para os usuários. Com 29 anos e atualmente cursando Análise e Desenvolvimento de Sistemas, estou mergulhado no mundo da programação e sempre buscando maneiras de expandir meu conhecimento e habilidades.
+Olá! Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado por criar experiências incríveis para os usuários. Com 29 anos e atualmente cursando Análise e Desenvolvimento de Sistemas, estou mergulhado no mundo da programação e sempre buscando maneiras de expandir meu conhecimento e habilidades.
   
 🚀 Busco constantemente novos desafios e oportunidades de aprendizado, pois acredito que é através do desafio que crescemos e nos tornamos melhores profissionais. Compromisso, determinação e curiosidade são os pilares que guiam minha jornada no desenvolvimento de software.
 </p>

@@ -15,7 +15,7 @@ Olá! 👋 Sou o Arthur, um entusiasta do desenvolvimento front-end apaixonado p
 - Versionamento: Git
 - Plataforma: GitHub
 
-<!--
+<!-- 
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
